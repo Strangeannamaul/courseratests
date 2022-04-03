@@ -14,12 +14,13 @@ It's like I took all this information in but now I'm having to go back to the be
 going to be very pretty. </p></div>
 
  <div class="col-lg-4 col-md-6 col-sm-12"><p>
-So far, i believe i have created the 3 columns i am looking for, and hopefully the header is also behaving as i expect it too, above these three bordered
+So far, I believe I have created the 3 columns I am looking for, and hopefully the header is also behaving as I expect it too, above these three bordered
 sections of text. </p></div>
 
  <div class="col-lg-4 col-md-6 col-sm-12"><p>
-What i still need to do is make sure i have adjusted the sizing of the fonts for header and section title, and also put the section header in... and finally make sure 
-all my spacing, borders and other style elements are all input properly</p></div>
+What I still need to do is make sure I have adjusted the sizing of the fonts for header and section title, and also put the section header in... and finally make sure 
+all my spacing, borders and other style elements are all input properly. But first, before all the rest, I need to link the css to this document because
+all these div classes mean nothing to this page without them. Does that make sense? I hope so.</p></div>
 
 
 </html>
