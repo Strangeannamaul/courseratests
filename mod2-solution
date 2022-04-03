@@ -5,7 +5,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, scale=1">
 <title>Module 2 assignment</title>
+<link rel="stylesheet" href="">
 </head>
+
 <body>
 <h1> I'm writing my own content! </h1>
 <div class="row">
