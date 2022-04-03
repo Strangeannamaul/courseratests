@@ -3,10 +3,11 @@
   box-sizing: border-box;
 }
 h1 {
-  colour:white;
+  colour:#1d2526;
   font-size: 175%
   margin-bottom: 15p;
-  
+  align: center
+ 
 }
    {
 background-colour: #398865
