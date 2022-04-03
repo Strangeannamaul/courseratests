@@ -1,7 +1,4 @@
 <style>
-* {
-  box-sizing: border-box;
-}
 h1 {
   colour:#1d2526;
   font-size: 175%
@@ -9,6 +6,10 @@ h1 {
   align: center
  
 }
+* {
+  box-sizing: border-box;
+}
+
    {
 background-colour: #398865
 }
