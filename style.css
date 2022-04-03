@@ -10,14 +10,14 @@ p {
   height: 90%x;
   margin-right: auto;
   margin-left: auto;
-  font-family: helvetica, verdana;
   color: ##18392B;
 }
 h1 {
-  colour:#1d2526;
-  font-size: 175%
-  margin-bottom: 15p;
   align: center
+  color:#1d2526;
+  font-size: 175%
+ 
+  
  
 }
 
