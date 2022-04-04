@@ -10,12 +10,11 @@ p {
   height: 90%x;
   margin-right: auto;
   margin-left: auto;
-  color: ##18392B;
+  font-color: #18392B;
 }
 h1 {
   align: center
-  color:#1d2526;
-  font-size: 175%
+  color: #1d2526
  
   
  
